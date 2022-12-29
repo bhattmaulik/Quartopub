@@ -1,0 +1,24 @@
+---
+title: "About"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/bhatt_maulik
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/maulikbhatt
+    - icon: github
+      text: Github
+      href: https://github.com/bhattmaulik
+---
+
+About Me
+
+I am a freelance academic writer. I have published research papers and case studies in the areas of finance and strategy. In 2017, my research paper on managing NPAs of Indian banks got published in FIIB Business Review, a UGC-approved indexed journal. My case studies are used for class discussion in various B-Schools across the globe, even after a decade of their publication. Some of the B-Schools where my case are used include Coventry University London Campus Ltd., ISM University of Management and Economics, University of Zurich, Swiss Asia Banking School AG, The Chinese University of Hong Kong Business School, LMU Ludwig-Maximilians-Universitat Munchen, O.P. Jindal Global University, Jindal Global Business School, etc. Apart from these B-Schools, my cases are used by organizations like McKinsey.\
+\
+About This Blog
+
+This is a place where I will keep sharing my views on various issues in Finance, Economics and Strategy. I will also post short tutorials of R programming.
